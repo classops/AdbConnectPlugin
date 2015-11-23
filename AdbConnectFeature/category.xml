@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/AdbWifi_1.0.0.jar" id="AdbWifi" version="1.0.0">
+      <category name="com.hanter.adbwifi"/>
+   </feature>
+   <feature url="features/AdbConnect_1.0.0.jar" id="AdbConnect" version="1.0.0">
+      <category name="adb_connect_category"/>
+   </feature>
+   <category-def name="adb_connect_category" label="adb_connect_category"/>
+</site>
